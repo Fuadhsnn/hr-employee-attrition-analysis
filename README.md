@@ -109,15 +109,15 @@ Insights & Recommendations
 
 ---
 
-## Dashboard
+## Dashboard Preview
 
-![HR Employee Attrition Dashboard](screenshots/dashboard.png)
+### Employee Attrition Dashboard
 
----
+![Employee Attrition Dashboard](screenshots/Dashboard.png)
 
-## Insights & Recommendations
+### Key Insights
 
-![Key Insights and Recommendations](screenshots/insights.png)
+![Key Insights](screenshots/Insights.png)
 
 ---
 
